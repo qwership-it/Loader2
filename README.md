@@ -42,7 +42,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="60%" valign="top">
         <h3>✅ YOU UNDERSTAND THAT:</h3>
         <ul>
           <li>This code is for <b>learning</b> and <b>research</b></li>
@@ -52,7 +52,7 @@
           <li>It's a <b>security research</b> tool</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td width="70%" valign="top">
         <h3>❌ YOU AGREE NOT TO:</h3>
         <ul>
           <li>Use in online multiplayer games</li>
