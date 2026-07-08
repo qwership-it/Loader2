@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-  <h1>NEO-GOD SPOOFER</h1>
-  <h3>v8.0 — Educational Research Project</h3>
+  <h1>SJC SPOOFER</h1>
+  <h3>v1.1.1.0 — Educational Research Project</h3>
   <br>
   <img src="https://img.shields.io/badge/PURPOSE-EDUCATIONAL-critical?style=for-the-badge&color=red" alt="Educational"/>
   <img src="https://img.shields.io/badge/DISCLAIMER-READ_CAREFULLY-ff69b4?style=for-the-badge" alt="Disclaimer"/>
@@ -172,7 +172,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="100%" valign="top">
         <h3>🔧 Spoofing</h3>
         <ul>
           <li>🖥️ Computer Name</li>
@@ -186,7 +186,7 @@
           <li>🆔 Product ID</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td width="100%" valign="top">
         <h3>🛡️ Protection</h3>
         <ul>
           <li>📸 Anti-Screenshot</li>
