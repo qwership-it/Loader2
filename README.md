@@ -42,12 +42,7 @@ This project is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**.
 - ❌ Author not liable for any damages
 
 **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.**
-
 <br>
-
-
-<br>
-
 ## 🔧 FEATURES
 
 | Category | Details |
@@ -56,5 +51,6 @@ This project is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**.
 | **Protection** | Anti-Screenshot, Anti-Cheat Block, Anti-Debug |
 | **Trolling** | SPAM MODE, KILL MODE, Screen Capture |
 | **Interface** | UI Control Panel, Hotkeys, Logging |
-
 <br>
+
+
