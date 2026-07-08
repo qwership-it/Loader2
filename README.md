@@ -45,24 +45,6 @@ This project is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**.
 
 <br>
 
-## 🔴 WARNING
-┌─────────────────────────────────────────────────────┐
-│ ⚠️ THIS IS NOT A CHEAT — IT'S RESEARCH ⚠️ │
-│ │
-│ 🔹 If you use this in online games: │
-│ → YOU WILL BE BANNED PERMANENTLY │
-│ │
-│ 🔹 The author is NOT responsible: │
-│ → For your bans │
-│ → For your actions │
-│ → For any consequences │
-│ │
-│ 🔹 By using this code: │
-│ → YOU ACCEPT ALL RESPONSIBILITY │
-│ → YOU AGREE TO THESE TERMS │
-└─────────────────────────────────────────────────────┘
-
-text
 
 <br>
 
@@ -76,31 +58,3 @@ text
 | **Interface** | UI Control Panel, Hotkeys, Logging |
 
 <br>
-
-## 📜 FINAL NOTE
-┌─────────────────────────────────────────────────────┐
-│ 🔴 I AM NOT RESPONSIBLE FOR YOUR ACTIONS 🔴 │
-│ │
-│ This tool was created for educational purposes. │
-│ What you do with it is YOUR choice. │
-│ All consequences are YOUR responsibility. │
-│ │
-│ 📚 LEARN — RESEARCH — UNDERSTAND │
-│ 🚫 DON'T CHEAT — DON'T ABUSE │
-└─────────────────────────────────────────────────────┘
-
-text
-
-<br>
-
-**Made with ❤️ for education**  
-**© 2026 SJC — Educational Project**
-
-<br>
-├────────────────────────────────────────────┤
-│ USE AT YOUR OWN RISK │
-│ NO WARRANTY — NO LIABILITY │
-│ EDUCATIONAL PURPOSES ONLY │
-└────────────────────────────────────────────┘
-
-text
