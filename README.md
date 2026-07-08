@@ -1,149 +1,106 @@
-<!--
- * ==========================================================
- * SJC SPOOFER V1.1.1.0
- * ==========================================================
- * НАЗНАЧЕНИЕ: ИСКЛЮЧИТЕЛЬНО ОБРАЗОВАТЕЛЬНЫЙ ПРОЕКТ
- * АВТОР: SJC
- * ЛИЦЕНЗИЯ: ТОЛЬКО ДЛЯ ИЗУЧЕНИЯ
- * ОТВЕТСТВЕННОСТЬ: ПОЛНОСТЬЮ НА ПОЛЬЗОВАТЕЛЕ
- * ==========================================================
--->
+# SJC SPOOFER V1.1.1.0
 
-<div align="center">
+> **EDUCATIONAL PURPOSE ONLY** — For research and learning
 
 <br>
 
-# <span style="color:#00d4ff;">█</span> SJC SPOOFER <span style="color:#ff6b6b;">V1.1.1.0</span>
+## ⚠️ DISCLAIMER
 
-<img src="https://img.shields.io/badge/EDUCATIONAL_ONLY-ff0000?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+**I, THE AUTHOR (SJC), TAKE ABSOLUTELY NO RESPONSIBILITY FOR:**
+
+- ❌ Account bans, suspensions, or permanent loss
+- ❌ Any damage caused by this software
+- ❌ Legal or ethical consequences of use
+- ❌ Misuse by third parties
+
+**YOU ARE FULLY RESPONSIBLE FOR YOUR ACTIONS.**
+**USE THIS CODE AT YOUR OWN RISK.**
 
 <br>
-┌──────────────────────────────────────────────┐
-│ ⚠️ ЭТОТ ПРОЕКТ НЕ ДЛЯ ЧИТЕРСТВА ⚠️ │
-│ 📚 ТОЛЬКО ОБРАЗОВАНИЕ И ИССЛЕДОВАНИЯ │
-│ 🔴 ИСПОЛЬЗОВАНИЕ = ВАША ОТВЕТСТВЕННОСТЬ │
-└──────────────────────────────────────────────┘
 
-text
+## 📌 CAUTION
 
-</div>
+This project is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**.
 
----
+| DO NOT | DO |
+|--------|----|
+| Use in online games | Study Windows internals |
+| Distribute as a cheat | Learn API hooking |
+| Blame the author for bans | Understand anti-cheat systems |
+| Commercialize this code | Practice C++ development |
 
-## <span style="color:#ff6b6b;">▸</span> ДИСКЛЕЙМЕР
+<br>
 
-<div align="center">
+## ⚖️ LICENSE
 
-**Я, АВТОР (SJC), НЕ НЕСУ ОТВЕТСТВЕННОСТИ ЗА:**
+**SJC SPOOFER V1.1.1.0 — EDUCATIONAL LICENSE**
 
-<table>
-  <tr>
-    <td>❌ БАН ВАШЕГО АККАУНТА</td>
-    <td>❌ ПОТЕРЮ ДАННЫХ</td>
-    <td>❌ ЮРИДИЧЕСКИЕ ПОСЛЕДСТВИЯ</td>
-  </tr>
-  <tr>
-    <td>❌ УЩЕРБ КОМПЬЮТЕРУ</td>
-    <td>❌ НАРУШЕНИЕ EULA</td>
-    <td>❌ ЛЮБЫЕ ДРУГИЕ РИСКИ</td>
-  </tr>
-</table>
+- ✅ Free for learning and research
+- ✅ Open source for educational use
+- ❌ Commercial use is strictly prohibited
+- ❌ No warranty of any kind
+- ❌ Author not liable for any damages
 
-**ВСЕ РИСКИ ВЫ ПРИНИМАЕТЕ НА СЕБЯ**  
-**ИСПОЛЬЗУЯ ЭТОТ КОД — ВЫ СОГЛАШАЕТЕСЬ С ЭТИМ**
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.**
 
-</div>
+<br>
 
----
-
-## <span style="color:#00d4ff;">▸</span> ЧТО ЭТО?
-
-**SJC Spoofer** — исследовательский проект для изучения:
-
-- Windows API Hook'ов
-- Принципов работы античит-систем
-- Методов идентификации системы
-- IAT-патчинга
-
----
-
-## <span style="color:#ffd93d;">▸</span> ЛИЦЕНЗИЯ
-
-**ПРОЕКТ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ"**  
-**БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ**
-
-<div align="center">
-╔═══════════════════════════════════════════════╗
-║ ЛИЦЕНЗИЯ SJC SPOOFER V1.1.1.0 ║
-╠═══════════════════════════════════════════════╣
-║ 1. ТОЛЬКО ДЛЯ ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЕЙ ║
-║ 2. ЗАПРЕЩЕНО КОММЕРЧЕСКОЕ ИСПОЛЬЗОВАНИЕ ║
-║ 3. АВТОР НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ║
-║ 4. ВСЕ РИСКИ НА ПОЛЬЗОВАТЕЛЕ ║
-║ 5. ИСПОЛЬЗОВАНИЕ = СОГЛАСИЕ С УСЛОВИЯМИ ║
-╚═══════════════════════════════════════════════╝
-
-text
-
-</div>
-
----
-
-## <span style="color:#ff6b6b;">▸</span> ПРЕДУПРЕЖДЕНИЕ
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" bgcolor="#ff000010">
-      <h3>🔴 ЭТО НЕ ЧИТ</h3>
-      <p>Это исследовательский инструмент</p>
-      <br>
-      <h3>💀 ИСПОЛЬЗОВАНИЕ В ИГРАХ = БАН</h3>
-      <p>Вы предупреждены</p>
-      <br>
-      <h3>⚠️ ОТВЕТСТВЕННОСТЬ НА ВАС</h3>
-      <p>Автор не причастен</p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## <span style="color:#00d4ff;">▸</span> КАК ИСПОЛЬЗОВАТЬ
-
-1. Скомпилируй DLL
-2. Используй инжектор
-3. Вызови `ShowUI()`
-
----
-
-## <span style="color:#ffd93d;">▸</span> КОНТАКТ
-
-**Автор:** SJC  
-**Назначение:** Образование
-
----
-
-<div align="center">
-
-### 📌 ИСПОЛЬЗУЯ ЭТОТ КОД — ВЫ СОГЛАШАЕТЕСЬ
-┌──────────────────────────────────────────────┐
-│ 🔴 Я НЕ НЕСУ ОТВЕТСТВЕННОСТИ │
-│ 🔴 ВСЕ ДЕЙСТВИЯ — НА ВАШЕЙ СОВЕСТИ │
-│ 🔴 ИСПОЛЬЗУЙТЕ С УМОМ │
-└──────────────────────────────────────────────┘
+## 🔴 WARNING
+┌─────────────────────────────────────────────────────┐
+│ ⚠️ THIS IS NOT A CHEAT — IT'S RESEARCH ⚠️ │
+│ │
+│ 🔹 If you use this in online games: │
+│ → YOU WILL BE BANNED PERMANENTLY │
+│ │
+│ 🔹 The author is NOT responsible: │
+│ → For your bans │
+│ → For your actions │
+│ → For any consequences │
+│ │
+│ 🔹 By using this code: │
+│ → YOU ACCEPT ALL RESPONSIBILITY │
+│ → YOU AGREE TO THESE TERMS │
+└─────────────────────────────────────────────────────┘
 
 text
 
 <br>
 
-**© 2026 SJC** | **ТОЛЬКО ОБРАЗОВАНИЕ**
+## 🔧 FEATURES
 
-<img src="https://img.shields.io/badge/EDUCATION_ONLY-red?style=for-the-badge&color=ff0000"/>
-<img src="https://img.shields.io/badge/NO_WARRANTY-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USE_AT_OWN_RISK-yellow?style=for-the-badge"/>
+| Category | Details |
+|----------|---------|
+| **Spoofing** | HWID, MAC, Computer Name, User Name, BIOS, Processor, Volume Serial, Disk Serial, Product ID |
+| **Protection** | Anti-Screenshot, Anti-Cheat Block, Anti-Debug |
+| **Trolling** | SPAM MODE, KILL MODE, Screen Capture |
+| **Interface** | UI Control Panel, Hotkeys, Logging |
 
-</div>
+<br>
+
+## 📜 FINAL NOTE
+┌─────────────────────────────────────────────────────┐
+│ 🔴 I AM NOT RESPONSIBLE FOR YOUR ACTIONS 🔴 │
+│ │
+│ This tool was created for educational purposes. │
+│ What you do with it is YOUR choice. │
+│ All consequences are YOUR responsibility. │
+│ │
+│ 📚 LEARN — RESEARCH — UNDERSTAND │
+│ 🚫 DON'T CHEAT — DON'T ABUSE │
+└─────────────────────────────────────────────────────┘
+
+text
+
+<br>
+
+**Made with ❤️ for education**  
+**© 2026 SJC — Educational Project**
+
+<br>
+├────────────────────────────────────────────┤
+│ USE AT YOUR OWN RISK │
+│ NO WARRANTY — NO LIABILITY │
+│ EDUCATIONAL PURPOSES ONLY │
+└────────────────────────────────────────────┘
+
+text
