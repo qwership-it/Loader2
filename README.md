@@ -52,7 +52,7 @@
           <li>It's a <b>security research</b> tool</li>
         </ul>
       </td>
-      <td width="70%" valign="top">
+      <td width="70%" valign="center">
         <h3>❌ YOU AGREE NOT TO:</h3>
         <ul>
           <li>Use in online multiplayer games</li>
